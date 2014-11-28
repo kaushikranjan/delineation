@@ -12,3 +12,4 @@ data.csv - sample data which needs to be input
 output - sample output for datapoint with co-ordinate(2,2)
 ```
 
+![Alt text](/home/kaushik/Desktop/Untitled Diagram.png "Optional title")
