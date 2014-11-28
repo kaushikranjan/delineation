@@ -1,8 +1,8 @@
-Delineation using GraphX
+Watershed Delineation using GraphX
 ================================
 
 ##What's this? 
-This algorithm computes all vertices in a directed graph, that can reach out to a given vertex. It finds use in varied applications, one being Geographic Information Systems to compute the delineation of a co-ordinate i.e. the various co-ordinates in the map from where water can flow to a given co-ordinate
+This algorithm computes all vertices in a directed graph, that can reach out to a given vertex. It finds use in varied applications, one being Geographic Information Systems to compute the watershed delineation of a co-ordinate i.e. the various co-ordinates in the map from where water can flow to a given co-ordinate
 
 ##Contents : 
 ```
