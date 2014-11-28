@@ -12,4 +12,8 @@ data.csv - sample data which needs to be input
 output - sample output for datapoint with co-ordinate(2,2)
 ```
 
-![Alt text](/home/kaushik/Desktop/Untitled Diagram.png "Optional title")
+![Alt text](http://www.markhneedham.com/blog/wp-content/uploads/2013/07/betweeness2.png "Optional title")
+
+The vertices that can reach out to Vertex 'E' are :
+                      Vertex 'A'
+                      Vertex 'B'
